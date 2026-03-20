@@ -1,4 +1,4 @@
-# 🚨 Quinto-cap - Detección de Fraude
+# 🚨 Detección de Fraude
 
 <p align="center">
   <img src="https://img.icons8.com/color/200/000000/security-checked.png" alt="Fraud Detection Logo" width="200"/>
