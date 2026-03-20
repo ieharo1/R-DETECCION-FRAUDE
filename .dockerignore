@@ -1,0 +1,30 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.rsproj
+*.swp
+*~
+
+# Plots and outputs
+plots/*.png
+plots/*.jpg
+plots/*.pdf
+outputs/*.csv
+outputs/*.rds
+models/*.rds
+
+# Data (optional)
+# data/*.csv
+
+# Logs
+*.log
+
+# Environment
+.Renviron
+.renv
+renv/
+
+# IDE
+.vscode/
+.idea/
