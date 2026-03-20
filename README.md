@@ -8,7 +8,7 @@
 
 ## 📱 Descripción
 
-**Quinto-cap** es un sistema de **Detección de Fraude** desarrollado en **R** que utiliza técnicas avanzadas de **Machine Learning** para identificar transacciones fraudulentas en datasets desbalanceados, implementando **SMOTE** (Synthetic Minority Over-sampling Technique) para mejorar la detección de casos minoritarios y modelos de clasificación optimizados para maximizar **Precision** y **Recall**.
+Detección de Fraude es un sistema de **Detección de Fraude** desarrollado en **R** que utiliza técnicas avanzadas de **Machine Learning** para identificar transacciones fraudulentas en datasets desbalanceados, implementando **SMOTE** (Synthetic Minority Over-sampling Technique) para mejorar la detección de casos minoritarios y modelos de clasificación optimizados para maximizar **Precision** y **Recall**.
 
 > El sistema replica un escenario real de fraude financiero donde las transacciones fraudulentas representan menos del 1% del total, requiriendo técnicas especializadas para su detección efectiva.
 
@@ -63,7 +63,7 @@
 ## 📁 Estructura del Proyecto
 
 ```
-Quinto-cap/
+R-DETECCION-FRAUDE/
 ├── 📂 data/
 │   └── transactions.csv
 ├── 📂 src/
@@ -97,8 +97,8 @@ Quinto-cap/
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/ieharo1/Quinto-cap.git
-cd Quinto-cap
+git clone https://github.com/ieharo1/R-DETECCION-FRAUDE.git
+cd R-DETECCION-FRAUDE
 ```
 
 ### 2. Ejecutar con R Local
